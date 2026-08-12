@@ -8,9 +8,10 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/GoogleChrome/bubblewrap/main/packages/core/src/tests/fixtures/icon.png",
+      "src": "https://raw.githubusercontent.com/batistabtc/manifesto/main/ico.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
