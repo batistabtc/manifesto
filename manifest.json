@@ -1,0 +1,16 @@
+{
+  "name": "Batista Play",
+  "short_name": "BatistaPlay",
+  "start_url": "https://batistaplay.net/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/GoogleChrome/bubblewrap/main/packages/core/src/tests/fixtures/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
